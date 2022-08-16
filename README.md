@@ -1,0 +1,1 @@
+I will be displaying the basic html skills I have learned along with writing commit comments along the way.
